@@ -9,8 +9,6 @@
 <a href="mailto:tahazaidi2004@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_out-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <img src="https://komarev.com/ghpvc/?username=taha-zaidii&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="profile views"/>
 
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-CS%20%40%20FAST%20NUCES%20Karachi-EDEDED?style=flat-square">
   <img alt="CS @ FAST NUCES Karachi" src="https://img.shields.io/badge/-CS%20%40%20FAST%20NUCES%20Karachi-1A1A1A?style=flat-square">
