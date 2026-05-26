@@ -215,8 +215,6 @@ Open to <b>AI engineering roles</b> · <b>agentic systems research</b> · <b>Web
 <a href="mailto:tahazaidi2004@gmail.com"><img src="https://img.shields.io/badge/Reach_out-tahazaidi2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://tahazaidi.me"><img src="https://img.shields.io/badge/Portfolio-tahazaidi.me-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
-<br/><br/>
-
 <sub><i>"Shipping > theorizing."</i></sub>
 
 </div>
