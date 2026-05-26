@@ -112,8 +112,8 @@ reading:     "Crafting Interpreters" · classic ML papers · Ethereum whitepaper
     <img src="https://img.shields.io/badge/-ChromaDB-FF6B6B?style=flat-square">
   </td>
   <td width="50%" valign="top">
-    <h4>👷 <a href="https://github.com/taha-zaidii/Ustaad-E-Mazdoor">Ustaad</a></h4>
-    <p>$80B+ informal labor market platform · Hybrid recommender (TF-IDF + MF) · p95 <b>800ms → 200ms</b></p>
+    <h4>👷 <a href="https://github.com/taha-zaidii/Ustaad">Ustaad</a></h4>
+    <p>$80B+ informal labor market platform · 6 design patterns · Repository + Singleton + Strategy · Next.js 16 · Clerk auth</p>
     <img src="https://img.shields.io/badge/-Next.js%2016-000000?style=flat-square&logo=nextdotjs">
     <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
     <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
