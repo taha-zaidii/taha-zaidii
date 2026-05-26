@@ -192,7 +192,7 @@ reading:     "Crafting Interpreters" · classic ML papers · Ethereum whitepaper
 
 ```
 PROCOM '26 — Director, Marketing & Brand Partnerships
-  └─ 40+ person team · 50+ corporate sponsors · PKR 1 Cr+ raised (25-year record)
+  └─ 40+ person team · 50+ corporate sponsors · PKR 1 Cr+ (~$36k+) raised (25-year record)
 
 ACM NUCES — Executive Head, Branding & Design
   └─ Developers Day 2025 · 2,500+ attendees · 30+ tech companies
