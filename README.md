@@ -113,10 +113,10 @@ reading:     "Crafting Interpreters" · classic ML papers · Ethereum whitepaper
   </td>
   <td width="50%" valign="top">
     <h4>👷 <a href="https://github.com/taha-zaidii/Ustaad">Ustaad</a></h4>
-    <p>$80B+ informal labor market platform · 6 design patterns · Repository + Singleton + Strategy · Next.js 16 · Clerk auth</p>
+    <p>Pakistan's AI-augmented skilled-labour marketplace · 6 GoF design patterns · Repository + Singleton + Strategy + Observer</p>
     <img src="https://img.shields.io/badge/-Next.js%2016-000000?style=flat-square&logo=nextdotjs">
-    <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-    <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/-Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white">
   </td>
 </tr>
 <tr>
