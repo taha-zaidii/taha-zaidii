@@ -34,7 +34,6 @@ building:    multi-agent orchestrators (LangGraph + CrewAI hybrids)
 exploring:   agent ↔ on-chain interop · zk primitives · DeFi infra
 learning:    distributed inference · vLLM internals · MoE routing
 shipping:    production RAG that doesn't fall over at 3 AM
-reading:     "Crafting Interpreters" · classic ML papers · Ethereum whitepapers
 ```
 
 ---
