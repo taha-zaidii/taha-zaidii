@@ -180,8 +180,8 @@ shipping:    production RAG that doesn't fall over at 3 AM
 ### 🎯 Beyond the code
 
 ```
-PROCOM '26 — Director, Marketing & Brand Partnerships
-  └─ 40+ person team · 50+ corporate sponsors · PKR 1 Cr+ (~$36k+) raised (25-year record)
+PROCOM'26 — Director, Marketing & Brand Partnerships
+  └─ 40+ person team · 50+ B2B & B2C corporate sponsors · record-breaking funds raised (25-year record)
 
 ACM NUCES — Executive Head, Branding & Design
   └─ Developers Day 2025 · 2,500+ attendees · 30+ tech companies
